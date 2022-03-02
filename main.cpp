@@ -1,5 +1,5 @@
 #include "headers/main.h"
-#include "headers/funkcijos.h"
+#include "funkcijos.cpp"
 
 int main() {
   int n=0;
