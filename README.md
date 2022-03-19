@@ -10,6 +10,10 @@
 ## Versija v0.2
 - *Padarytas duomenų skaitymas iš failo.*
 
+## Versija v0.3
+- *Sukurtas heading failas, programa išskaidyta į kelis cpp failus.*
+- *Atlikti keli try catch atvejai.*
+
 ## Įdiegimas naudojant g++ kompiliatorių
 - `git clone https://github.com/Matas-V/objektinis.git`
 - `cd objektinis`
