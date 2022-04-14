@@ -28,6 +28,25 @@
 - *Pritaikytos 2 strategijos darbui su konteineriu, t.y. vargšiukų ir kietiakų dalijimui.*
 - *Gauti rezultatai skirtingų strategijų bei konteinerių yra palyginami laiko ir užimamos atminties atžvilgiu.*
 
+### Strategijų užimama atmintis dirbant su konteineriais (10M duomenų)
+*Vektoriaus 1 strategija*<br>
+![1vector](https://user-images.githubusercontent.com/80633152/163403489-c10465be-5dd0-469a-9fcf-f7443bf6daad.png)
+<br>*Vektoriaus 2 strategija*<br>
+![2vector](https://user-images.githubusercontent.com/80633152/163403559-81fe6173-f795-4fb5-8459-4a7899cf30c5.png)
+<br>*Listo 1 strategija*<br>
+![1list](https://user-images.githubusercontent.com/80633152/163403583-3536e85d-8fd0-4ae2-bf50-c80cc71d47ba.png)
+<br>*Listo 2 strategija*<br>
+![2list](https://user-images.githubusercontent.com/80633152/163403590-03d9fff4-6a66-4fcf-a957-05d7677df9fe.png)
+<br>*Deko 1 strategija*<br>
+![1deque](https://user-images.githubusercontent.com/80633152/163403600-6d04a999-98a2-4727-86df-a467a54256a8.png)
+<br>*Deko 2 strategija*<br>
+![2deque](https://user-images.githubusercontent.com/80633152/163403611-d737baad-3a74-406b-bf98-3a64ce5eac85.png)
+
+### Programų darbas
+![vec10](https://user-images.githubusercontent.com/80633152/163403630-fd9d53b4-17d4-4324-9153-e43e1c2308f4.png)
+![list10](https://user-images.githubusercontent.com/80633152/163403636-758b11ca-d3f3-4169-968a-acffc912049f.png)
+![deq10](https://user-images.githubusercontent.com/80633152/163403646-7b8bbc0b-6fb6-4425-b358-68b271a39dcc.png)
+
 ## Programos įdiegimas naudojant makefile
 - `git clone https://github.com/Matas-V/objektinis.git`
 - `cd objektinis`
