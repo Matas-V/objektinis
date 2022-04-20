@@ -49,7 +49,7 @@
 
 ## Programos įdiegimas naudojant makefile
 - `git clone https://github.com/Matas-V/objektinis.git`
-- `cd objektinis`
+- `cd objektinis/{pasirinkta realizija}`
 - `make main`
 - `./main`
 
